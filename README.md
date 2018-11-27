@@ -2,7 +2,7 @@
 
 ## Description
 
-HTTP Cache is a caching reverse-proxy. It's a way to simulate a CDN like Cloudlare or Fastly on your development environment.
+HTTP Cache is a caching reverse-proxy. It's a way to simulate a CDN like Cloudflare or Fastly on your development environment.
 
 ## Installation
 
